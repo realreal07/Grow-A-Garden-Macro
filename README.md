@@ -18,7 +18,7 @@ Update Log:
 - added select all buttons in ui so you dont have to manually check every box
 - added user inputs in the ui for webhook and discord userid if you want discord messages
 - added toggle for discord pings in macro settings
-- added a few more webhook integrations
+- added a few more webhook integrations (they kinda suck)
 - added virages donate tab/links
 
 INSTRUCTIONS:
@@ -32,6 +32,7 @@ Before starting the macro:
 - make sure you have at least 3 items in your hotbar (there is a reason for this but its stupid so just do it)
 - set your roblox camera mode to the following --> default(classic)
 - turn on ui navigation in roblox settings
+- make sure you dont have carrot seed or watering can selected in the shops (like dont have them so that you can see their buy button)
 
 To setup webhook and pings:
 - search up how to make a webhook and once you get your url just paste it into the texbox in the macro and click save
