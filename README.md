@@ -40,6 +40,7 @@ To setup webhook and pings:
 
 IMPORTANT:
 - FAST MODE HAS VERY LITTLE DELAYS AND REQUIRES A STABLE FRAME RATE (NO LAG SPIKES)
+- LAG SPIKES CAN GREATLY AFFECT THE RELIABILITY AND CONSISTENCY OF THE MACRO
 - use fastmode at your own risk, i've tested it and it works perfectly on as low as 30fps but the delays are still very short between inputs
 - if you have a lower end device i recommend not turning it on but you can use still use it if you wish
 - if your pc time settings are wrong like your restocks are happening on 0:03 for example, then set your time to be automatic because the macro goes on every multiple of 5
