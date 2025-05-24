@@ -1,10 +1,25 @@
 # Grow-A-Garden-Macro
+
+README
 macro updated as of may 23, 2025
 [lunar update]
 
 - virages grow a garden macro, revamped by real
 - https://www.youtube.com/@VirageRoblox
 - https://discord.gg/WgqDA7TWQ9 - virages macro server if you need help
+
+Update Log:
+- added egg detection so now you can select what eggs you want to buy
+- revamped user inputs, no more mouse inputs (besides a few), fully uses roblox ui navigation
+- revamped ui to use tabs
+- should work on all resolutions
+- added auto alignment which can be toggled in macro settings, automatically aligns your character when you start
+- added a fast mode toggle, if you have a good device its recommended to use it scroll down for more info on it
+- added select all buttons in ui so you dont have to manually check every box
+- added user inputs in the ui for webhook and discord userid if you want discord messages
+- added toggle for discord pings in macro settings
+- added a few more webhook integrations
+- added virages donate tab/links
 
 INSTRUCTIONS:
 
