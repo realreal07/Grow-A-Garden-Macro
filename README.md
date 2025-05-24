@@ -11,6 +11,7 @@ Update Log:
 - added egg detection so now you can select what eggs you want to buy
 - revamped user inputs, no more mouse inputs (besides a few), fully uses roblox ui navigation
 - revamped ui to use tabs
+- starts a cycle whenever your time is a multiple of 5 (0:05, 00:10, etc.) because thats when restocks happen for everyone scroll down for more info
 - should work on all resolutions
 - added auto alignment which can be toggled in macro settings, automatically aligns your character when you start
 - added a fast mode toggle, if you have a good device its recommended to use it scroll down for more info on it
@@ -40,6 +41,7 @@ IMPORTANT:
 - FAST MODE HAS VERY LITTLE DELAYS AND REQUIRES A STABLE FRAME RATE (NO LAG SPIKES)
 - use fastmode at your own risk, i've tested it and it works perfectly on as low as 30fps but the delays are still very short between inputs
 - if you have a lower end device i recommend not turning it on but you can use still use it if you wish
+- if your pc time settings are wrong like your restocks are happening on 0:03 for example, then set your time to be automatic because the macro goes on every multiple of 5
 
 Confirmed working resolutions:
 - 2560x1440 on 125% scale
