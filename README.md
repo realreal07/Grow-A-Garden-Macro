@@ -1,6 +1,5 @@
-# Grow-A-Garden-Macro
+# Grow-A-Garden-Macro READ ME
 
-README
 macro updated as of may 23, 2025
 [lunar update]
 
