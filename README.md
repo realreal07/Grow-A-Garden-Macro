@@ -8,6 +8,8 @@ macro updated as of may 23, 2025
 
 INSTRUCTIONS:
 
+-to download the file go to releases and download the one called Virage-Grow-A-Garden-Macro-Lunar-RevampedByReal
+
 - you should probably always have auto-align selected, i only added that because it was annoying to sit through the alignment every test
 
 Before starting the macro:
