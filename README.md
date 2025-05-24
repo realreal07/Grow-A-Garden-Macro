@@ -37,10 +37,13 @@ Before starting the macro:
 To setup webhook and pings:
 - search up how to make a webhook and once you get your url just paste it into the texbox in the macro and click save
 - if you want to be pinged when certain items are bought, search up how to get your discord user id and paste that into the textbox in the macro and click save, also turn select discord item pings
+- press clear saves to wipe your webhook and userid from the code
 
 IMPORTANT:
 - FAST MODE HAS VERY LITTLE DELAYS AND REQUIRES A STABLE FRAME RATE (NO LAG SPIKES)
 - LAG SPIKES CAN GREATLY AFFECT THE RELIABILITY AND CONSISTENCY OF THE MACRO
+- THE EGG CYCLE IS GREATLY AFFECTED BY LAG SPIKES AND YOU COULD WALK TOO FAR OR NOT FAR ENOUGH IF YOU GET A LAG SPIKE (the macro should be able to continue still but it will fail to buy an egg probably)
+- IF FAST MODE DOESNT WORK FOR YOU (i.e. fails to open shops or something else because its too fast) THEN TURN IT OFF IT WILL BE MUCH SLOWER BUT MORE STABLE
 - use fastmode at your own risk, i've tested it and it works perfectly on as low as 30fps but the delays are still very short between inputs
 - if you have a lower end device i recommend not turning it on but you can use still use it if you wish
 - if your pc time settings are wrong like your restocks are happening on 0:03 for example, then set your time to be automatic because the macro goes on every multiple of 5
