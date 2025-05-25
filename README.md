@@ -21,7 +21,7 @@ Before starting the macro:
 - set your roblox camera mode to the following --> default(classic)
 - turn on ui navigation in roblox settings
 - make sure you dont have carrot seed or watering can selected in the shops (like dont have them so that you can see their buy button)
-- unequip and pets that increase speed
+- unequip any pets that increase speed
 
 IMPORTANT:
 
