@@ -1,7 +1,7 @@
 # Grow-A-Garden-Macro READ ME
 
-macro updated as of may 23, 2025
-[lunar update]
+macro updated as of may 25, 2025
+[cosmetic and twilight update]
 
 - virages grow a garden macro, revamped by real
 - https://www.youtube.com/@VirageRoblox
@@ -21,6 +21,7 @@ Before starting the macro:
 - set your roblox camera mode to the following --> default(classic)
 - turn on ui navigation in roblox settings
 - make sure you dont have carrot seed or watering can selected in the shops (like dont have them so that you can see their buy button)
+- unequip and pets that increase speed
 
 IMPORTANT:
 
@@ -36,6 +37,7 @@ To setup webhook and pings:
 - search up how to make a webhook and once you get your url just paste it into the texbox in the macro and click save
 - if you want to be pinged when certain items are bought, search up how to get your discord user id and paste that into the textbox in the macro and click save, also turn select discord item pings
 - press clear saves to wipe your webhook and userid from the code
+- make sure webhook link is a discord.com not discordapp.com (just remove the app)
 
 Confirmed working resolutions:
 - 2560x1440 on 125% scale
