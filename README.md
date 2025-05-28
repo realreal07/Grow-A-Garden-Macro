@@ -7,7 +7,7 @@ macro updated as of may 25, 2025
 - https://www.youtube.com/@VirageRoblox
 - https://discord.gg/WgqDA7TWQ9 - virages macro server if you need help
 
-[DISCLAIMER] - GREATLY IMPACT BY LAG SPIKES, IF YOU GET FREQUENT LAG SPIKES THE EGGS MAY FAIL SOMETIMES (the macro shouldn't fully break though) SCROLL DOWN FOR MORE INFO
+[DISCLAIMER] - GREATLY IMPACTed BY LAG SPIKES, IF YOU GET FREQUENT LAG SPIKES THE EGGS MAY FAIL SOMETIMES (the macro shouldn't fully break though) SCROLL DOWN FOR MORE INFO
 
 INSTRUCTIONS:
 
